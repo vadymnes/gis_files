@@ -7,9 +7,9 @@
     {
       "type": "Feature",
       "properties": {
-        "@id": "way/50132189",
+        "id": "way/50132189",
         "addr:housenumber": "4д",
-        "addr:street": "Валерія Лобановського проспект",
+        "street_name": "Валерія Лобановського проспект",
         "building": "yes",
         "building:levels": "2",
         "internet_access": "wlan",
@@ -54,9 +54,9 @@
     {
       "type": "Feature",
       "properties": {
-        "@id": "way/112092109",
+        "id": "way/112092109",
         "addr:housenumber": "17",
-        "addr:street": "Броварський проспект",
+        "street_name": "Броварський проспект",
         "building": "retail",
         "building:levels": "2",
         "check_date:opening_hours": "2021-07-27",
@@ -125,9 +125,9 @@
     {
       "type": "Feature",
       "properties": {
-        "@id": "way/130760706",
+        "id": "way/130760706",
         "addr:housenumber": "49",
-        "addr:street": "Анни Ахматової вулиця",
+        "street_name": "Анни Ахматової вулиця",
         "building": "yes",
         "building:levels": "1",
         "name": "Novus",
@@ -221,7 +221,7 @@
     {
       "type": "Feature",
       "properties": {
-        "@id": "way/140234563",
+        "id": "way/140234563",
         "addr:housenumber": "56а",
         "brand": "Novus",
         "building": "yes",
@@ -260,9 +260,9 @@
     {
       "type": "Feature",
       "properties": {
-        "@id": "way/171530698",
+        "id": "way/171530698",
         "addr:housenumber": "8",
-        "addr:street": "Миколи Бажана проспект",
+        "street_name": "Миколи Бажана проспект",
         "building": "retail",
         "building:levels": "2",
         "name": "Novus",
@@ -326,9 +326,9 @@
     {
       "type": "Feature",
       "properties": {
-        "@id": "way/173295636",
+        "id": "way/173295636",
         "addr:housenumber": "7",
-        "addr:street": "Академіка Палладіна проспект",
+        "street_name": "Академіка Палладіна проспект",
         "building": "yes",
         "building:levels": "2",
         "name": "Novus",
@@ -367,10 +367,10 @@
     {
       "type": "Feature",
       "properties": {
-        "@id": "way/174309416",
+        "id": "way/174309416",
         "addr:housenumber": "4а",
         "addr:postcode": "02160",
-        "addr:street": "Регенераторна вулиця",
+        "street_name": "Регенераторна вулиця",
         "building": "yes",
         "building:levels": "2",
         "check_date:opening_hours": "2020-11-22",
@@ -422,10 +422,10 @@
     {
       "type": "Feature",
       "properties": {
-        "@id": "way/183423873",
+        "id": "way/183423873",
         "addr:housenumber": "1",
         "addr:postcode": "04128",
-        "addr:street": "Гостомельська площа",
+        "street_name": "Гостомельська площа",
         "building": "yes",
         "name": "Novus",
         "opening_hours": "Mo-Su 08:00-23:00",
@@ -517,9 +517,9 @@
     {
       "type": "Feature",
       "properties": {
-        "@id": "way/231945289",
+        "id": "way/231945289",
         "addr:housenumber": "1А",
-        "addr:street": "Гната Хоткевича вулиця",
+        "street_name": "Гната Хоткевича вулиця",
         "building": "retail",
         "building:levels": "1",
         "check_date:opening_hours": "2021-09-04",
@@ -606,10 +606,10 @@
     {
       "type": "Feature",
       "properties": {
-        "@id": "way/336650215",
+        "id": "way/336650215",
         "addr:housenumber": "18",
         "addr:postcode": "02068",
-        "addr:street": "Петра Григоренка проспект",
+        "street_name": "Петра Григоренка проспект",
         "brand": "Novus",
         "building": "yes",
         "building:levels": "2",
@@ -675,9 +675,9 @@
     {
       "type": "Feature",
       "properties": {
-        "@id": "way/357228685",
+        "id": "way/357228685",
         "addr:housenumber": "7г",
-        "addr:street": "Здолбунівська вулиця",
+        "street_name": "Здолбунівська вулиця",
         "building": "retail",
         "building:levels": "2",
         "height": "15",
@@ -755,7 +755,7 @@
     {
       "type": "Feature",
       "properties": {
-        "@id": "way/357229122",
+        "id": "way/357229122",
         "building": "retail",
         "building:levels": "1",
         "name": "Novus",
@@ -817,7 +817,7 @@
     {
       "type": "Feature",
       "properties": {
-        "@id": "way/393886897",
+        "id": "way/393886897",
         "addr:housenumber": "1а",
         "addr:postcode": "02140",
         "building": "retail",
@@ -875,9 +875,9 @@
     {
       "type": "Feature",
       "properties": {
-        "@id": "way/438288914",
+        "id": "way/438288914",
         "addr:housenumber": "4",
-        "addr:street": "Євгена Сверстюка вулиця",
+        "street_name": "Євгена Сверстюка вулиця",
         "building": "retail",
         "building:levels": "2",
         "name": "Novus",
@@ -919,9 +919,9 @@
     {
       "type": "Feature",
       "properties": {
-        "@id": "way/449176123",
+        "id": "way/449176123",
         "addr:housenumber": "5",
-        "addr:street": "Георгія Кірпи вулиця",
+        "street_name": "Георгія Кірпи вулиця",
         "building": "retail",
         "building:levels": "2",
         "name": "Novus",
@@ -988,7 +988,7 @@
     {
       "type": "Feature",
       "properties": {
-        "@id": "way/461937211",
+        "id": "way/461937211",
         "addr:housenumber": "4",
         "building": "retail",
         "building:levels": "1",
@@ -1054,10 +1054,10 @@
     {
       "type": "Feature",
       "properties": {
-        "@id": "way/753281525",
+        "id": "way/753281525",
         "addr:housenumber": "41",
         "addr:postcode": "04203",
-        "addr:street": "Правди проспект",
+        "street_name": "Правди проспект",
         "building": "yes",
         "building:levels": "1",
         "name": "Novus",
@@ -1099,9 +1099,9 @@
     {
       "type": "Feature",
       "properties": {
-        "@id": "way/896453211",
+        "id": "way/896453211",
         "addr:housenumber": "14а",
-        "addr:street": "Ушинського вулиця",
+        "street_name": "Ушинського вулиця",
         "building": "yes",
         "name": "Novus",
         "operator": "Novus",
@@ -1139,9 +1139,9 @@
     {
       "type": "Feature",
       "properties": {
-        "@id": "way/901396137",
+        "id": "way/901396137",
         "addr:housenumber": "8а",
-        "addr:street": "Івана Пулюя вулиця",
+        "street_name": "Івана Пулюя вулиця",
         "building": "yes",
         "name": "Novus",
         "opening_hours": "Mo-Su 08:00-23:00",
@@ -1199,7 +1199,7 @@
     {
       "type": "Feature",
       "properties": {
-        "@id": "node/1761530269",
+        "id": "node/1761530269",
         "name": "Novus",
         "name:uk": "Novus",
         "opening_hours": "08:00-23:00",
@@ -1217,7 +1217,7 @@
     {
       "type": "Feature",
       "properties": {
-        "@id": "node/2426995388",
+        "id": "node/2426995388",
         "check_date:opening_hours": "2021-06-01",
         "name": "Novus",
         "name:uk": "Novus",
@@ -1237,10 +1237,10 @@
     {
       "type": "Feature",
       "properties": {
-        "@id": "node/2591288069",
+        "id": "node/2591288069",
         "addr:housenumber": "19",
         "addr:postcode": "03186",
-        "addr:street": "Чоколівський бульвар",
+        "street_name": "Чоколівський бульвар",
         "brand": "Novus",
         "level": "0",
         "name": "Novus",
@@ -1264,7 +1264,7 @@
     {
       "type": "Feature",
       "properties": {
-        "@id": "node/3190251357",
+        "id": "node/3190251357",
         "name": "Novus",
         "name:uk": "Novus",
         "shop": "supermarket"
@@ -1281,7 +1281,7 @@
     {
       "type": "Feature",
       "properties": {
-        "@id": "node/5611113819",
+        "id": "node/5611113819",
         "name": "Novus",
         "shop": "supermarket"
       },
@@ -1297,7 +1297,7 @@
     {
       "type": "Feature",
       "properties": {
-        "@id": "node/6184878771",
+        "id": "node/6184878771",
         "level": "1",
         "name": "Novus",
         "shop": "supermarket"
@@ -1314,7 +1314,7 @@
     {
       "type": "Feature",
       "properties": {
-        "@id": "node/8841213617",
+        "id": "node/8841213617",
         "check_date": "2022-08-12",
         "contact:website": "https://novus.ua/",
         "level": "2",
@@ -1339,7 +1339,7 @@
     {
       "type": "Feature",
       "properties": {
-        "@id": "node/8996211358",
+        "id": "node/8996211358",
         "name": "Novus",
         "shop": "supermarket"
       },
@@ -1355,9 +1355,9 @@
     {
       "type": "Feature",
       "properties": {
-        "@id": "node/9906933500",
+        "id": "node/9906933500",
         "addr:housenumber": "47",
-        "addr:street": "Правди проспект",
+        "street_name": "Правди проспект",
         "name": "Novus",
         "name:en": "Novus",
         "opening_hours": "Mo-Su 08:00-23:00",
