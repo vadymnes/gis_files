@@ -1,0 +1,1379 @@
+{
+  "type": "FeatureCollection",
+  "generator": "overpass-ide",
+  "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.",
+  "timestamp": "2022-12-20T19:38:09Z",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/50132189",
+        "addr:housenumber": "4д",
+        "addr:street": "Валерія Лобановського проспект",
+        "building": "yes",
+        "building:levels": "2",
+        "internet_access": "wlan",
+        "internet_access:fee": "no",
+        "name": "Novus",
+        "shop": "supermarket",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              30.4640991,
+              50.4230309
+            ],
+            [
+              30.4639549,
+              50.4228942
+            ],
+            [
+              30.4632515,
+              50.4222271
+            ],
+            [
+              30.4640105,
+              50.4219023
+            ],
+            [
+              30.4648579,
+              50.4227061
+            ],
+            [
+              30.4640991,
+              50.4230309
+            ]
+          ]
+        ]
+      },
+      "id": "way/50132189"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/112092109",
+        "addr:housenumber": "17",
+        "addr:street": "Броварський проспект",
+        "building": "retail",
+        "building:levels": "2",
+        "check_date:opening_hours": "2021-07-27",
+        "internet_access": "wlan",
+        "internet_access:fee": "no",
+        "name": "Novus",
+        "name:ru": "Новус",
+        "name:uk": "Новус",
+        "opening_hours": "Mo-Su 08:00-23:00",
+        "shop": "supermarket",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              30.5930942,
+              50.4535689
+            ],
+            [
+              30.5938456,
+              50.4524745
+            ],
+            [
+              30.5940757,
+              50.4525385
+            ],
+            [
+              30.5947586,
+              50.4527286
+            ],
+            [
+              30.5939898,
+              50.4538485
+            ],
+            [
+              30.5937922,
+              50.4537935
+            ],
+            [
+              30.5938275,
+              50.4537421
+            ],
+            [
+              30.593729,
+              50.4537146
+            ],
+            [
+              30.5937112,
+              50.4537406
+            ],
+            [
+              30.5932058,
+              50.4535999
+            ],
+            [
+              30.5930942,
+              50.4535689
+            ]
+          ]
+        ]
+      },
+      "id": "way/112092109"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/130760706",
+        "addr:housenumber": "49",
+        "addr:street": "Анни Ахматової вулиця",
+        "building": "yes",
+        "building:levels": "1",
+        "name": "Novus",
+        "opening_hours": "08:00-23:00",
+        "phone": "+380 50 417 5413",
+        "shop": "supermarket",
+        "website": "https://novus.ua/",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              30.6148966,
+              50.4047474
+            ],
+            [
+              30.6148707,
+              50.4047253
+            ],
+            [
+              30.6149957,
+              50.4045468
+            ],
+            [
+              30.6150267,
+              50.4045553
+            ],
+            [
+              30.6151717,
+              50.4043157
+            ],
+            [
+              30.6152603,
+              50.4041789
+            ],
+            [
+              30.6155198,
+              50.4042482
+            ],
+            [
+              30.6153617,
+              50.4044869
+            ],
+            [
+              30.6154984,
+              50.4046875
+            ],
+            [
+              30.6157339,
+              50.4047579
+            ],
+            [
+              30.6157079,
+              50.4047962
+            ],
+            [
+              30.6157674,
+              50.4048138
+            ],
+            [
+              30.6156794,
+              50.4049532
+            ],
+            [
+              30.615544,
+              50.4049162
+            ],
+            [
+              30.6155626,
+              50.4048871
+            ],
+            [
+              30.615183,
+              50.4047862
+            ],
+            [
+              30.6151616,
+              50.4048198
+            ],
+            [
+              30.6148966,
+              50.4047474
+            ]
+          ]
+        ]
+      },
+      "id": "way/130760706"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/140234563",
+        "addr:housenumber": "56а",
+        "brand": "Novus",
+        "building": "yes",
+        "name": "Novus",
+        "shop": "supermarket"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              30.4551705,
+              50.4222261
+            ],
+            [
+              30.4554987,
+              50.42207
+            ],
+            [
+              30.455701,
+              50.4222427
+            ],
+            [
+              30.4553728,
+              50.4223988
+            ],
+            [
+              30.4551705,
+              50.4222261
+            ]
+          ]
+        ]
+      },
+      "id": "way/140234563"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/171530698",
+        "addr:housenumber": "8",
+        "addr:street": "Миколи Бажана проспект",
+        "building": "retail",
+        "building:levels": "2",
+        "name": "Novus",
+        "name:en": "Novus",
+        "name:ru": "Новус",
+        "name:uk": "Новус",
+        "opening_hours": "Mo-Su 08:00-23:00",
+        "shop": "supermarket",
+        "wheelchair": "yes",
+        "wikipedia": "uk:Проспект Миколи Бажана"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              30.610594,
+              50.3938842
+            ],
+            [
+              30.6108287,
+              50.3932249
+            ],
+            [
+              30.6110162,
+              50.393252
+            ],
+            [
+              30.6110697,
+              50.3931016
+            ],
+            [
+              30.612588,
+              50.3933212
+            ],
+            [
+              30.6124568,
+              50.3936901
+            ],
+            [
+              30.612572,
+              50.3937068
+            ],
+            [
+              30.6124152,
+              50.3941476
+            ],
+            [
+              30.6120046,
+              50.3940883
+            ],
+            [
+              30.610594,
+              50.3938842
+            ]
+          ]
+        ]
+      },
+      "id": "way/171530698"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/173295636",
+        "addr:housenumber": "7",
+        "addr:street": "Академіка Палладіна проспект",
+        "building": "yes",
+        "building:levels": "2",
+        "name": "Novus",
+        "opening_hours": "Mo-Su 8:00-23:00",
+        "shop": "supermarket"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              30.355379,
+              50.461008
+            ],
+            [
+              30.3557996,
+              50.461041
+            ],
+            [
+              30.3555595,
+              50.4625088
+            ],
+            [
+              30.3551593,
+              50.4624937
+            ],
+            [
+              30.355379,
+              50.461008
+            ]
+          ]
+        ]
+      },
+      "id": "way/173295636"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/174309416",
+        "addr:housenumber": "4а",
+        "addr:postcode": "02160",
+        "addr:street": "Регенераторна вулиця",
+        "building": "yes",
+        "building:levels": "2",
+        "check_date:opening_hours": "2020-11-22",
+        "name": "Novus",
+        "name:en": "Novus",
+        "opening_hours": "Mo-Su 08:00-23:00",
+        "payment:cash": "yes",
+        "payment:visa": "yes",
+        "shop": "supermarket",
+        "website": "http://www.novus.com.ua"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              30.6218775,
+              50.4382468
+            ],
+            [
+              30.6213845,
+              50.4381078
+            ],
+            [
+              30.6214775,
+              50.4379741
+            ],
+            [
+              30.6215704,
+              50.4378404
+            ],
+            [
+              30.6220634,
+              50.4379795
+            ],
+            [
+              30.6219822,
+              50.4380963
+            ],
+            [
+              30.6218775,
+              50.4382468
+            ]
+          ]
+        ]
+      },
+      "id": "way/174309416"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/183423873",
+        "addr:housenumber": "1",
+        "addr:postcode": "04128",
+        "addr:street": "Гостомельська площа",
+        "building": "yes",
+        "name": "Novus",
+        "opening_hours": "Mo-Su 08:00-23:00",
+        "shop": "supermarket",
+        "website": "http://www.novus.com.ua/",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              30.3674595,
+              50.4972814
+            ],
+            [
+              30.3675086,
+              50.4973002
+            ],
+            [
+              30.3675526,
+              50.4973261
+            ],
+            [
+              30.3675721,
+              50.4973592
+            ],
+            [
+              30.3675828,
+              50.4973874
+            ],
+            [
+              30.3675876,
+              50.4974169
+            ],
+            [
+              30.3675732,
+              50.4974589
+            ],
+            [
+              30.3675595,
+              50.4974871
+            ],
+            [
+              30.3675375,
+              50.4975098
+            ],
+            [
+              30.3675099,
+              50.49753
+            ],
+            [
+              30.3674688,
+              50.4975502
+            ],
+            [
+              30.3673836,
+              50.4975787
+            ],
+            [
+              30.3663083,
+              50.4979681
+            ],
+            [
+              30.3661167,
+              50.4979593
+            ],
+            [
+              30.3661995,
+              50.4972304
+            ],
+            [
+              30.3671577,
+              50.4972655
+            ],
+            [
+              30.3673766,
+              50.4972722
+            ],
+            [
+              30.3674595,
+              50.4972814
+            ]
+          ]
+        ]
+      },
+      "id": "way/183423873"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/231945289",
+        "addr:housenumber": "1А",
+        "addr:street": "Гната Хоткевича вулиця",
+        "building": "retail",
+        "building:levels": "1",
+        "check_date:opening_hours": "2021-09-04",
+        "internet_access": "wlan",
+        "name": "Novus",
+        "name:ru": "Novus",
+        "opening_hours": "Mo-Su 08:00-23:00",
+        "shop": "supermarket",
+        "website": "http://www.novus.com.ua"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              30.631778,
+              50.4589414
+            ],
+            [
+              30.631824,
+              50.4588741
+            ],
+            [
+              30.6318701,
+              50.4588066
+            ],
+            [
+              30.6317487,
+              50.4587736
+            ],
+            [
+              30.632245,
+              50.4580325
+            ],
+            [
+              30.6324118,
+              50.4580778
+            ],
+            [
+              30.6325786,
+              50.4581231
+            ],
+            [
+              30.6328613,
+              50.4581998
+            ],
+            [
+              30.6326901,
+              50.4584554
+            ],
+            [
+              30.6328434,
+              50.4584971
+            ],
+            [
+              30.6323777,
+              50.4591987
+            ],
+            [
+              30.6325132,
+              50.4592323
+            ],
+            [
+              30.6323794,
+              50.4594512
+            ],
+            [
+              30.632037,
+              50.459161
+            ],
+            [
+              30.6318181,
+              50.4589754
+            ],
+            [
+              30.631778,
+              50.4589414
+            ]
+          ]
+        ]
+      },
+      "id": "way/231945289"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/336650215",
+        "addr:housenumber": "18",
+        "addr:postcode": "02068",
+        "addr:street": "Петра Григоренка проспект",
+        "brand": "Novus",
+        "building": "yes",
+        "building:levels": "2",
+        "height": "15",
+        "name": "Novus",
+        "opening_hours": "08:00-23:00",
+        "shop": "supermarket",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              30.625232,
+              50.4111805
+            ],
+            [
+              30.6257766,
+              50.4102479
+            ],
+            [
+              30.6260521,
+              50.4103132
+            ],
+            [
+              30.6263652,
+              50.4103875
+            ],
+            [
+              30.6263535,
+              50.4104075
+            ],
+            [
+              30.6263327,
+              50.4104431
+            ],
+            [
+              30.6263117,
+              50.4104722
+            ],
+            [
+              30.6259093,
+              50.4111682
+            ],
+            [
+              30.6257398,
+              50.411128
+            ],
+            [
+              30.6256511,
+              50.4112799
+            ],
+            [
+              30.625232,
+              50.4111805
+            ]
+          ]
+        ]
+      },
+      "id": "way/336650215"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/357228685",
+        "addr:housenumber": "7г",
+        "addr:street": "Здолбунівська вулиця",
+        "building": "retail",
+        "building:levels": "2",
+        "height": "15",
+        "name": "Novus",
+        "shop": "supermarket",
+        "toilets:wheelchair": "yes",
+        "wheelchair": "yes",
+        "wifi": "yes"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              30.6062286,
+              50.4118226
+            ],
+            [
+              30.6061413,
+              50.4118037
+            ],
+            [
+              30.6052289,
+              50.4116059
+            ],
+            [
+              30.6048863,
+              50.4115316
+            ],
+            [
+              30.6050472,
+              50.4112444
+            ],
+            [
+              30.6049801,
+              50.4112215
+            ],
+            [
+              30.6050783,
+              50.4109904
+            ],
+            [
+              30.6046131,
+              50.4105364
+            ],
+            [
+              30.604534,
+              50.4104565
+            ],
+            [
+              30.6050365,
+              50.4095351
+            ],
+            [
+              30.6056287,
+              50.4102273
+            ],
+            [
+              30.6063445,
+              50.4110715
+            ],
+            [
+              30.6065263,
+              50.411285
+            ],
+            [
+              30.6062286,
+              50.4118226
+            ]
+          ]
+        ]
+      },
+      "id": "way/357228685"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/357229122",
+        "building": "retail",
+        "building:levels": "1",
+        "name": "Novus",
+        "opening_hours": "Mo-Su 08:00-23:00",
+        "phone:UA": "0 800 601 729",
+        "roof:levels": "0",
+        "shop": "supermarket",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              30.6107677,
+              50.4068231
+            ],
+            [
+              30.6108346,
+              50.4069126
+            ],
+            [
+              30.6110249,
+              50.4071718
+            ],
+            [
+              30.6104205,
+              50.4073519
+            ],
+            [
+              30.6103527,
+              50.4072596
+            ],
+            [
+              30.6102825,
+              50.4072805
+            ],
+            [
+              30.6101633,
+              50.407118
+            ],
+            [
+              30.610263,
+              50.4070883
+            ],
+            [
+              30.6101938,
+              50.406994
+            ],
+            [
+              30.6107677,
+              50.4068231
+            ]
+          ]
+        ]
+      },
+      "id": "way/357229122"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/393886897",
+        "addr:housenumber": "1а",
+        "addr:postcode": "02140",
+        "building": "retail",
+        "building:levels": "2",
+        "check_date:opening_hours": "2021-06-18",
+        "name": "Novus",
+        "opening_hours": "08:00-23:00",
+        "shop": "supermarket"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              30.6255844,
+              50.3897038
+            ],
+            [
+              30.6256489,
+              50.3894651
+            ],
+            [
+              30.6256574,
+              50.3894334
+            ],
+            [
+              30.625959,
+              50.3894679
+            ],
+            [
+              30.6258994,
+              50.38968
+            ],
+            [
+              30.6258101,
+              50.3896698
+            ],
+            [
+              30.625794,
+              50.3897272
+            ],
+            [
+              30.6255982,
+              50.3897054
+            ],
+            [
+              30.6255844,
+              50.3897038
+            ]
+          ]
+        ]
+      },
+      "id": "way/393886897"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/438288914",
+        "addr:housenumber": "4",
+        "addr:street": "Євгена Сверстюка вулиця",
+        "building": "retail",
+        "building:levels": "2",
+        "name": "Novus",
+        "name:ru": "Новус",
+        "name:uk": "Новус",
+        "opening_hours": "08:00-23:00",
+        "roof:shape": "flat",
+        "shop": "supermarket"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              30.6021765,
+              50.4477002
+            ],
+            [
+              30.6019074,
+              50.447294
+            ],
+            [
+              30.6030497,
+              50.4469871
+            ],
+            [
+              30.6033188,
+              50.4473933
+            ],
+            [
+              30.6021765,
+              50.4477002
+            ]
+          ]
+        ]
+      },
+      "id": "way/438288914"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/449176123",
+        "addr:housenumber": "5",
+        "addr:street": "Георгія Кірпи вулиця",
+        "building": "retail",
+        "building:levels": "2",
+        "name": "Novus",
+        "opening_hours": "08:00-23:00",
+        "payment:mastercard": "yes",
+        "payment:visa": "yes",
+        "phone:UA": "0 800 601 729",
+        "shop": "supermarket",
+        "website": "http://www.novus.com.ua/ru/kiev-ulica-georgiya-kirpy-5"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              30.4861804,
+              50.4375596
+            ],
+            [
+              30.485738,
+              50.4373072
+            ],
+            [
+              30.4855724,
+              50.4372127
+            ],
+            [
+              30.4860495,
+              50.4368735
+            ],
+            [
+              30.4862765,
+              50.4370031
+            ],
+            [
+              30.4864165,
+              50.4369008
+            ],
+            [
+              30.4868792,
+              50.4371772
+            ],
+            [
+              30.4867039,
+              50.4372874
+            ],
+            [
+              30.4866359,
+              50.4372521
+            ],
+            [
+              30.486257,
+              50.4375051
+            ],
+            [
+              30.4861804,
+              50.4375596
+            ]
+          ]
+        ]
+      },
+      "id": "way/449176123"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/461937211",
+        "addr:housenumber": "4",
+        "building": "retail",
+        "building:levels": "1",
+        "name": "Novus",
+        "opening_hours": "24/7",
+        "roof:levels": "0",
+        "shop": "supermarket",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              30.6247486,
+              50.402834
+            ],
+            [
+              30.6259769,
+              50.4025215
+            ],
+            [
+              30.6260165,
+              50.4025881
+            ],
+            [
+              30.6257657,
+              50.4029471
+            ],
+            [
+              30.6247223,
+              50.4029464
+            ],
+            [
+              30.6246485,
+              50.4029702
+            ],
+            [
+              30.6245157,
+              50.4031694
+            ],
+            [
+              30.6242931,
+              50.403107
+            ],
+            [
+              30.6244017,
+              50.4029223
+            ],
+            [
+              30.624575,
+              50.4028782
+            ],
+            [
+              30.6247486,
+              50.402834
+            ]
+          ]
+        ]
+      },
+      "id": "way/461937211"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/753281525",
+        "addr:housenumber": "41",
+        "addr:postcode": "04203",
+        "addr:street": "Правди проспект",
+        "building": "yes",
+        "building:levels": "1",
+        "name": "Novus",
+        "shop": "supermarket"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              30.4279264,
+              50.5027245
+            ],
+            [
+              30.4280059,
+              50.5028838
+            ],
+            [
+              30.426983,
+              50.50309
+            ],
+            [
+              30.4269036,
+              50.5029308
+            ],
+            [
+              30.4277861,
+              50.5027528
+            ],
+            [
+              30.4279264,
+              50.5027245
+            ]
+          ]
+        ]
+      },
+      "id": "way/753281525"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/896453211",
+        "addr:housenumber": "14а",
+        "addr:street": "Ушинського вулиця",
+        "building": "yes",
+        "name": "Novus",
+        "operator": "Novus",
+        "shop": "supermarket"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              30.4480527,
+              50.4327139
+            ],
+            [
+              30.4481399,
+              50.4326874
+            ],
+            [
+              30.4482841,
+              50.4328797
+            ],
+            [
+              30.4481953,
+              50.4329099
+            ],
+            [
+              30.4480527,
+              50.4327139
+            ]
+          ]
+        ]
+      },
+      "id": "way/896453211"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/901396137",
+        "addr:housenumber": "8а",
+        "addr:street": "Івана Пулюя вулиця",
+        "building": "yes",
+        "name": "Novus",
+        "opening_hours": "Mo-Su 08:00-23:00",
+        "shop": "supermarket"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              30.4625176,
+              50.4134599
+            ],
+            [
+              30.4623604,
+              50.4134717
+            ],
+            [
+              30.4622064,
+              50.4133424
+            ],
+            [
+              30.4621453,
+              50.4124541
+            ],
+            [
+              30.4630861,
+              50.4124233
+            ],
+            [
+              30.463095,
+              50.4125203
+            ],
+            [
+              30.4632188,
+              50.4125169
+            ],
+            [
+              30.4632595,
+              50.4129048
+            ],
+            [
+              30.4624721,
+              50.4129477
+            ],
+            [
+              30.4625176,
+              50.4134599
+            ]
+          ]
+        ]
+      },
+      "id": "way/901396137"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1761530269",
+        "name": "Novus",
+        "name:uk": "Novus",
+        "opening_hours": "08:00-23:00",
+        "shop": "supermarket"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          30.3981814,
+          50.4063416
+        ]
+      },
+      "id": "node/1761530269"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2426995388",
+        "check_date:opening_hours": "2021-06-01",
+        "name": "Novus",
+        "name:uk": "Novus",
+        "opening_hours": "08:00-23:00",
+        "shop": "supermarket",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          30.4696263,
+          50.3867092
+        ]
+      },
+      "id": "node/2426995388"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2591288069",
+        "addr:housenumber": "19",
+        "addr:postcode": "03186",
+        "addr:street": "Чоколівський бульвар",
+        "brand": "Novus",
+        "level": "0",
+        "name": "Novus",
+        "name:uk": "Novus",
+        "payment:cash": "yes",
+        "payment:mastercard": "yes",
+        "payment:visa": "yes",
+        "shop": "supermarket",
+        "website": "https://novus.ua/",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          30.454648,
+          50.4311531
+        ]
+      },
+      "id": "node/2591288069"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3190251357",
+        "name": "Novus",
+        "name:uk": "Novus",
+        "shop": "supermarket"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          30.3681524,
+          50.4239779
+        ]
+      },
+      "id": "node/3190251357"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5611113819",
+        "name": "Novus",
+        "shop": "supermarket"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          30.522115,
+          50.4936015
+        ]
+      },
+      "id": "node/5611113819"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6184878771",
+        "level": "1",
+        "name": "Novus",
+        "shop": "supermarket"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          30.5298999,
+          50.4213616
+        ]
+      },
+      "id": "node/6184878771"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8841213617",
+        "check_date": "2022-08-12",
+        "contact:website": "https://novus.ua/",
+        "level": "2",
+        "name": "Novus",
+        "name:ru": "Новус",
+        "opening_hours": "Mo-Su 08:00-22:00",
+        "operator": "Novus",
+        "payment:mastercard": "yes",
+        "payment:visa": "yes",
+        "shop": "supermarket",
+        "start_date": "2021-08-06"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          30.4768269,
+          50.3825164
+        ]
+      },
+      "id": "node/8841213617"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8996211358",
+        "name": "Novus",
+        "shop": "supermarket"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          30.3639639,
+          50.456371
+        ]
+      },
+      "id": "node/8996211358"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9906933500",
+        "addr:housenumber": "47",
+        "addr:street": "Правди проспект",
+        "name": "Novus",
+        "name:en": "Novus",
+        "opening_hours": "Mo-Su 08:00-23:00",
+        "payment:cash": "yes",
+        "payment:mastercard": "yes",
+        "payment:visa": "yes",
+        "shop": "supermarket"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          30.4192901,
+          50.5034098
+        ]
+      },
+      "id": "node/9906933500"
+    }
+  ]
+}
